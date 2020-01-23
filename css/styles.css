@@ -1,3 +1,15 @@
-.jumbotron {
-    background-image: 
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#mainfont {
+    font-family: 'Rock Salt',cursive;
+
+}
+.jumbotron{
+    background: url("../img/marvin-meyer-SYTO3xs06fU-unsplash.jpg") center center no-repeat;
+    background-size: cover;
+    height: 70vh;
+    color: yellowgreen;
+
 }
